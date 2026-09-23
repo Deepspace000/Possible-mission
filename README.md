@@ -23,10 +23,11 @@ Press Space or tap the screen to start. On an iPad or iPhone, open the link in S
 | Hold Up | Hold up | Hold SEARCH | Search furniture, use a terminal or a train |
 | Space | A | JUMP | Somersault, in rooms and in the elevator hallways |
 | F or X | B | FIRE | Shoot, once you have found the gun |
-| C or Enter | Y | PUZZLE | In an elevator, switch the pocket computer's puzzle on or off |
-| Tab | Select | Tap the map | In an elevator, show the whole map |
+| C or Enter | Y | PUZZLE | In an elevator, open or close the puzzle window |
+| Tab | Select | MAP | Show the whole map, in an elevator or a room |
 | P | Start | PAUSE | Pause |
 | M | | SOUND | Sound on or off |
+| Esc | | BACK | Back to the game from the map, the puzzle or any console |
 
 ## About this repository
 
